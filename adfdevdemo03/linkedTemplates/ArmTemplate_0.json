@@ -515,6 +515,11 @@
 						}
 					}
 				],
+				"parameters": {
+					"name": {
+						"type": "string"
+					}
+				},
 				"annotations": [],
 				"lastPublishTime": "2021-06-30T07:19:57Z"
 			},
